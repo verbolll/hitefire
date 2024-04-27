@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "219f9eee850dbe9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce0756e271bc2d7",
+        "type": "split",
+        "children": [
+          {
+            "id": "c39ff71f3c0c202c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "693008e84d405f64",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9d36a9aa73239264",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "第二章：固体、液体、气体.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "3382f81f252f8461",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "第三章：热工计算.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              },
+              {
+                "id": "865617d09023f4e0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "第四章：反应机理.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "97ce3067461c35f7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "40e236016b8e1e25",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "第四章：反应机理.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7facd63f933e2dd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4241eb7dd0ef0233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ae429de815595fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6102e8871e4029ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "174aa8f18cb3d41c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "63a1f49516590076",
+    "type": "split",
+    "children": [
+      {
+        "id": "2418a6ce3eae01b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad5276a0ce701e67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第四章：反应机理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa6a212fb5b86fd7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第四章：反应机理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5fbb7c49e120764",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c5a9d67606a28ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第四章：反应机理.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "865617d09023f4e0",
+  "lastOpenFiles": [
+    "Pasted image 20240427180352.png",
+    "第三章：热工计算.md",
+    "第四章：反应机理.md",
+    "Pasted image 20240427171351.png",
+    "Pasted image 20240427170617.png",
+    "第二章：固体、液体、气体.md",
+    "Pasted image 20240427164249.png",
+    "Pasted image 20240427145453.png",
+    "Pasted image 20240427145434.png",
+    "Pasted image 20240427145405.png",
+    "Pasted image 20240427145321.png",
+    "Pasted image 20240427104034.png",
+    "Pasted image 20240427103816.png",
+    "Pasted image 20240427103755.png"
+  ]
+}
