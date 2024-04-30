@@ -4,104 +4,82 @@
     "type": "split",
     "children": [
       {
-        "id": "5f04990f53a15920",
-        "type": "split",
+        "id": "c39ff71f3c0c202c",
+        "type": "tabs",
         "children": [
           {
-            "id": "c39ff71f3c0c202c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "693008e84d405f64",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
-                "id": "9d36a9aa73239264",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "第二章：固体、液体、气体.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "3382f81f252f8461",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "第三章：热工计算.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "865617d09023f4e0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "第四章：反应机理.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "553b9a73ba5ebfd6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "第五章：着火.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "59d89d2a635d3074",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "第六章：火焰.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
+            "id": "693008e84d405f64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第五章：着火.md",
+                "mode": "source",
+                "source": true
               }
-            ],
-            "currentTab": 5
+            }
           },
           {
-            "id": "82ede62a687046c0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a967d8633575dd46",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "第六章：火焰.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
+            "id": "9d36a9aa73239264",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第二章：固体、液体、气体.md",
+                "mode": "source",
+                "source": true
               }
-            ]
+            }
+          },
+          {
+            "id": "3382f81f252f8461",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第三章：热工计算.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "553b9a73ba5ebfd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第七章：气体燃烧燃料.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "93a37430f04389dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第七章：气体燃烧燃料.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c40164f8edf811b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第八章：液体燃料.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "63a1f49516590076",
@@ -168,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第六章：火焰.md",
+                "file": "第五章：着火.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第六章：火焰.md",
+                "file": "第五章：着火.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第六章：火焰.md"
+                "file": "第五章：着火.md"
               }
             }
           }
@@ -229,23 +206,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "59d89d2a635d3074",
+  "active": "693008e84d405f64",
   "lastOpenFiles": [
+    "第四章：反应机理.md",
+    "第三章：热工计算.md",
+    "第二章：固体、液体、气体.md",
+    "第八章：液体燃料.md",
+    "第七章：气体燃烧燃料.md",
+    "第六部分　火焰传播与火焰稳定[2].pdf",
+    "Pasted image 20240429220638.png",
+    "Pasted image 20240429220357.png",
+    "第六章：火焰.md",
+    "第五章：着火.md",
+    "第七部分　气体燃料燃烧.pdf",
+    "Pasted image 20240429084656.png",
     "Pasted image 20240428220110.png",
     "Pasted image 20240428213131.png",
     "Pasted image 20240428212152.png",
     "Pasted image 20240428211718.png",
-    "第五章：着火.md",
-    "第四章：反应机理.md",
-    "第六章：火焰.md",
     "Pasted image 20240428095002.png",
     "Pasted image 20240428093823.png",
-    "Pasted image 20240428093538.png",
-    "Pasted image 20240428091847.png",
-    "Pasted image 20240428085228.png",
-    "Pasted image 20240428085031.png",
-    "Pasted image 20240428084719.png",
-    "第三章：热工计算.md",
-    "第二章：固体、液体、气体.md"
+    "Pasted image 20240428093538.png"
   ]
 }
